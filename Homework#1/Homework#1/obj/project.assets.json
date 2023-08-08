@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Aleksandar\\coding\\BULKY-WEB_MVC-PROJECT\\Homework#1\\Homework#1\\Homework#1.csproj",
+      "projectUniqueName": "D:\\8. SEDC\\ASP.NET_WebAPI-HOMEWORK\\Homework#1\\Homework#1\\Homework#1.csproj",
       "projectName": "Homework#1",
-      "projectPath": "E:\\Aleksandar\\coding\\BULKY-WEB_MVC-PROJECT\\Homework#1\\Homework#1\\Homework#1.csproj",
+      "projectPath": "D:\\8. SEDC\\ASP.NET_WebAPI-HOMEWORK\\Homework#1\\Homework#1\\Homework#1.csproj",
       "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-      "outputPath": "E:\\Aleksandar\\coding\\BULKY-WEB_MVC-PROJECT\\Homework#1\\Homework#1\\obj\\",
+      "outputPath": "D:\\8. SEDC\\ASP.NET_WebAPI-HOMEWORK\\Homework#1\\Homework#1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

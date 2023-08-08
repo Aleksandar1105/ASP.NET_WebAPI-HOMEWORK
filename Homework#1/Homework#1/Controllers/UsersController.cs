@@ -13,8 +13,8 @@ namespace Homework_1.Controllers
         {
             try
             {
-                var users = StaticDb.UserNames;
-                return Ok(users);
+                var usernames = StaticDb.UserNames;
+                return Ok(usernames);
             }
             catch (Exception)
             {
@@ -23,7 +23,7 @@ namespace Homework_1.Controllers
         }
 
         [HttpGet("userId/{id}")]
-        public ActionResult<List<string>> GetById(int id)
+        public ActionResult<string> GetById(int id)
         {
             try
             {
@@ -37,7 +37,8 @@ namespace Homework_1.Controllers
                     return StatusCode(StatusCodes.Status404NotFound, $"The note with index {id} was not found.");
                 }
 
-                return Ok(StaticDb.UserNames[(int)id]);
+                var usersnames = StaticDb.UserNames;
+                return Ok(usersnames[(int)id]);
             }
             catch (Exception ex)
             {

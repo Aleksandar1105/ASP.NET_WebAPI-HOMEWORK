@@ -30,3 +30,35 @@ E:\Aleksandar\coding\BULKY-WEB_MVC-PROJECT\Homework#1\Homework#1\obj\Debug\net6.
 E:\Aleksandar\coding\BULKY-WEB_MVC-PROJECT\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.pdb
 E:\Aleksandar\coding\BULKY-WEB_MVC-PROJECT\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.genruntimeconfig.cache
 E:\Aleksandar\coding\BULKY-WEB_MVC-PROJECT\Homework#1\Homework#1\obj\Debug\net6.0\ref\Homework#1.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\appsettings.Development.json
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\appsettings.json
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Homework#1.exe
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Homework#1.deps.json
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Homework#1.runtimeconfig.json
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Homework#1.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Homework#1.pdb
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.csproj.AssemblyReference.cache
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.AssemblyInfoInputs.cache
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.AssemblyInfo.cs
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.csproj.CoreCompileInputs.cache
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.MvcApplicationPartsAssemblyInfo.cs
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.MvcApplicationPartsAssemblyInfo.cache
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\staticwebassets\msbuild.Homework#1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\staticwebassets\msbuild.build.Homework#1.props
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Homework#1.props
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Homework#1.props
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\staticwebassets.build.json
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\staticwebassets.development.json
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\scopedcss\bundle\Homework#1.styles.css
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.csproj.CopyComplete
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\refint\Homework#1.dll
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.pdb
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\Homework#1.genruntimeconfig.cache
+D:\8. SEDC\ASP.NET_WebAPI-HOMEWORK\Homework#1\Homework#1\obj\Debug\net6.0\ref\Homework#1.dll
