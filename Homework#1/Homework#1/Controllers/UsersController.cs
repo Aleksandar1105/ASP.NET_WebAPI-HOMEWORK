@@ -23,22 +23,23 @@ namespace Homework_1.Controllers
         }
 
         [HttpGet("userId/{id}")]
-        public ActionResult<string> GetById(int id)
+        public ActionResult<string> GetById(int? id)
         {
             try
             {
-                if (id < 0)
+                if (id == null)
                 {
-                    return StatusCode(StatusCodes.Status400BadRequest, "The index is a negative number.");
+                    return StatusCode(StatusCodes.Status400BadRequest, "No ID provided.");
                 }
 
-                if (id >= StaticDb.UserNames.Count)
+                if (id >= StaticDb.UserNames.Count || id < 0)
                 {
-                    return StatusCode(StatusCodes.Status404NotFound, $"The note with index {id} was not found.");
+                    return StatusCode(StatusCodes.Status404NotFound, $"The username with index {id} was not found.");
                 }
 
-                var usersnames = StaticDb.UserNames;
-                return Ok(usersnames[(int)id]);
+                var username = StaticDb.UserNames[(int)id];
+                return Ok(username);
+
             }
             catch (Exception ex)
             {

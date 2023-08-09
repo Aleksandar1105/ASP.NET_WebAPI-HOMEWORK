@@ -1,34 +1,35 @@
 ﻿async function getAllUsers() {
-    try {
-        const response = await fetch(`http://localhost:5005/api/Users`);
-        //console.log(response);
-        const data = await response.json();
-        console.log(data);
-        const allUsersResult = document.getElementById("allUsers");
-        allUsersResult.innerHTML = data.join(", ");
-    } catch (error) {
-        console.error("Error fetching all users:", error);
+    const response = await fetch(`http://localhost:5005/api/Users`);
+    //console.log(response);
+    const data = await response.json();
+    //console.log(data);
+    if (!response.ok) {
+        throw new Error(`Error fetching users: ${response.status}`);
     }
+    const allUsersResult = document.getElementById("allUsers");
+    allUsersResult.innerText = "";
+
+    data.forEach(user => {
+        const userDiv = document.createElement("div");
+        userDiv.textContent = user;
+        allUsersResult.appendChild(userDiv);
+    });
 }
 
 async function getUserById() {
-    const userId = await document.getElementById("userId").value;
-    console.log(userId);
+    const userId = parseInt(document.getElementById("userId").value);
+    //console.log("User with Id:", userId);
     const response = await fetch(
         `http://localhost:5005/api/Users/userId/${userId}`
     );
-    console.log(response);
+    //console.log("Response status:", response.status);
 
-    if (!response.ok) {
-        console.log("Error fetching user by ID:", response.status);
-        return;
-    }
+    const data = await response.text();
+    //console.log("Data:", data);
 
-    const data = await response.json();
-    console.log(data);
     if (data) {
         const userResult = document.getElementById("userById");
-        userResult.innerText = data; 
+        userResult.innerText = data;
     }
 }
 
