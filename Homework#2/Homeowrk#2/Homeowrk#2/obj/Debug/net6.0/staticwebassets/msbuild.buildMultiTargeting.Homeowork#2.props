@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Homeowork#2.props" />
+</Project>
