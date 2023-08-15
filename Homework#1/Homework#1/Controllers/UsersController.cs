@@ -23,7 +23,7 @@ namespace Homework_1.Controllers
         }
 
         [HttpGet("userId/{id}")]
-        public ActionResult<string> GetById(int? id)
+        public ActionResult<string> GetById(int id)
         {
             try
             {
@@ -37,7 +37,7 @@ namespace Homework_1.Controllers
                     return StatusCode(StatusCodes.Status404NotFound, $"The username with index {id} was not found.");
                 }
 
-                var username = StaticDb.UserNames[(int)id];
+                var username = StaticDb.UserNames[id];
                 return Ok(username);
 
             }
